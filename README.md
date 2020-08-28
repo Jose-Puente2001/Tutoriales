@@ -11,7 +11,16 @@
 [¿Còmo utilizar las variables en CSS?](https://custompropertiescss.blogspot.com/2020/06/)
 
 
+## JavaScript
+
+[Formas de recorrer un arreglo en JavaScript](https://eldiariodelawebjavascript.blogspot.com/2020/08/)
+
+
 ## Vim
 
 [¿Còmo personalizar un poco el editor Vim?](https://vimcomandos.blogspot.com/2020/07/como-personalizar-un-poco-el-editor-vim.html)
+
+
+
+
 
